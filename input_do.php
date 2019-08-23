@@ -15,7 +15,7 @@
             <h1 class="font-weight-normal">PHP</h1>    
         </header>
 
-        <main>=
+        <main>
             <h2>Practice</h2>
             <pre>
                 <?php
